@@ -10,12 +10,13 @@ function Resume() {
         <h4>Proficiencies</h4>
         <h5>Front-End:</h5>
         <ul>
-            <li>HTML5</li>
-            <li>CSS3 - including Bootstrap, Materialize, Bulma</li>
+            <li>React</li>
+            <li>Flask</li>
             <li>JavaScript ES6+</li>
             <li>jQuery</li>
             <li>Mobile-First, Responsive Design</li>
-            <li>React</li>
+            <li>CSS Libraries: Bootstrap, Bulma, Materialize, Tailwind, Semantic UI</li>
+            <li>HMTL5, CSS</li>
         </ul>
         <h5>Back-End:</h5>
         <ul>
@@ -24,6 +25,7 @@ function Resume() {
             <li>NodeJS</li>
             <li>RESTful APIs</li>
             <li>Express</li>
+            <li>Python</li>
             <li>GraphQL</li>
         </ul>
     </div>
