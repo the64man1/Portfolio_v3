@@ -31,7 +31,7 @@ To use the Budget Tracker, clone the repository by running "git clone `git@githu
     
 Users are free to use these files to build their own portfolio.
 
-Deployed app on GitHub Pages: https://the64man1.github.io/React_Portfolio/
+Deployed app on GitHub Pages: https://aq-portfolio-v3.herokuapp.com/
     
 ## License
     
