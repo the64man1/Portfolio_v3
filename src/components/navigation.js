@@ -7,9 +7,7 @@ function Navigation({ currentTab, handleTabChange}) {
             <ul className="right">
                 <li><a href="#aboutme" onClick={() => handleTabChange('AboutMe')} className={currentTab === 'AboutMe' ? 'black-text' : 'white-text'}>About Me</a></li>
                 <li><a href="#projects" onClick={() => handleTabChange('Projects')} className={currentTab === 'Projects' ? 'black-text' : 'white-text'}>Projects</a></li>
-                <li><a href="#contactme" onClick={() => handleTabChange('Resume')} className={currentTab === 'Resume' ? 'black-text' : 'white-text'}>Resume</a></li>
-                <li><a href="#contactme" onClick={() => handleTabChange('ContactMe')} className={currentTab === 'ContactMe' ? 'black-text' : 'white-text'}>Contact Me</a></li>
-            </ul>
+                <li><a href="#resume" onClick={() => handleTabChange('Resume')} className={currentTab === 'Resume' ? 'black-text' : 'white-text'}>Resume</a></li>            </ul>
             </div>
         </nav>
     )

@@ -13,7 +13,7 @@ function Project() {
             name: 'Foodbook',
             description: 'A website to find popular, user-created recipes, and share your own favorite recipes. Created using the MERN stack, along with GraphQL for managing API requests.',
             github: 'https://github.com/the64man1/AQ_Foodbook',
-            deployed: 'https://foodbook-app.herokuapp.com/',
+            deployed: 'https://aq-foodbook.herokuapp.com/',
             image: foodbook
         },
         {
