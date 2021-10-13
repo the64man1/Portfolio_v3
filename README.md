@@ -5,7 +5,7 @@
 
 This is my portfolio, a webpage that provides information about me, a showcase of my work, my resume, and a form to contact me.
 
-Link to GitHub pages where the portfolio is hosted: https://the64man1.github.io/React_Portfolio/
+Link to Heroku site where the portfolio is hosted: https://aq-portfolio-v3.herokuapp.com/
 
 My porfolio was completed using the React framework, along with JavaScript, HTML and the Materialize framework for CSS.
 
@@ -31,7 +31,7 @@ To use the Budget Tracker, clone the repository by running "git clone `git@githu
     
 Users are free to use these files to build their own portfolio.
 
-Deployed app on GitHub Pages: https://the64man1.github.io/React_Portfolio/
+Deployed app on GitHub Pages: https://aq-portfolio-v3.herokuapp.com/
     
 ## License
     
