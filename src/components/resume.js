@@ -20,13 +20,14 @@ function Resume() {
         </ul>
         <h5>Back-End:</h5>
         <ul>
+            <<li>Python</li>
             <li>SQL, mySQL, and Sequelize</li>
             <li>MongoDB and Mongoose</li>
             <li>NodeJS</li>
             <li>RESTful APIs</li>
             <li>Express</li>
-            <li>Python</li>
             <li>GraphQL</li>
+            <li>Selenium, Web-Scraping</li>
         </ul>
     </div>
     )
