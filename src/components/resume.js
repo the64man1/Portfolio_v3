@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../assets/docs/resume101321.pdf'
+import resume from '../assets/docs/resume120122.pdf'
 
 function Resume() {
     return (
@@ -11,23 +11,36 @@ function Resume() {
         <h5>Front-End:</h5>
         <ul>
             <li>React</li>
-            <li>Flask</li>
+            <li>Angular</li>
             <li>JavaScript ES6+</li>
+            <li>TypeScript</li>
             <li>jQuery</li>
             <li>Mobile-First, Responsive Design</li>
-            <li>CSS Libraries: Bootstrap, Bulma, Materialize, Tailwind, Semantic UI</li>
+            <li>CSS Libraries: Bootstrap, Material UI, Nebular, Bulma, Materialize, Tailwind, Semantic UI</li>
             <li>HMTL5, CSS</li>
         </ul>
         <h5>Back-End:</h5>
         <ul>
-            <<li>Python</li>
-            <li>SQL, mySQL, and Sequelize</li>
+            <li>C#/.NET</li>
+            <li>Python</li>
+            <li>MySQL</li>
             <li>MongoDB and Mongoose</li>
             <li>NodeJS</li>
             <li>RESTful APIs</li>
             <li>Express</li>
             <li>GraphQL</li>
             <li>Selenium, Web-Scraping</li>
+            <li>Redis</li>
+        </ul>
+        <h5>Technologies:</h5>
+        <ul>
+            <li>NodeJS</li>
+            <li>Amazon Web Services</li>
+            <li>Docker</li>
+            <li>Visual Studio</li>
+            <li>GitHub</li>
+            <li>Postman</li>
+            <li>Heroku</li>
         </ul>
     </div>
     )
