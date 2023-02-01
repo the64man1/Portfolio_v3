@@ -1,12 +1,12 @@
 import React from 'react';
-import resume from '../assets/docs/resume120122.pdf'
+import resume from '../assets/docs/resume020123.pdf'
 
 function Resume() {
     return (
     <div class="row container card-panel left-align">
         <h3>Resume and Proficiencies</h3>
         <h5>Download my resume: </h5>
-        <a href={resume} class="waves-effect waves-light btn" target="_blank"><i class="material-icons left">file_download</i>Download</a>
+        <a href={resume} rel="noreferrer" class="waves-effect waves-light btn" target="_blank"><i class="material-icons left">file_download</i>Download</a>
         <h4>Proficiencies</h4>
         <h5>Front-End:</h5>
         <ul>

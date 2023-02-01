@@ -8,7 +8,7 @@ function AboutMe() {
       <div class="row aboutmebox">
         <img src={pic} class = "col s12 m4" id="picofmax" alt="Pic of Max" />
         <p class = "col s12 m4">
-            I am a full-stack web developer, with interest in back-end architecture and development, leveraging five years of experience as a practicing general dentist to best serve
+            I am software engineer with full-stack web developement experience, leveraging five years of experience as a practicing general dentist to best serve
             clients and users in developing interactive and engaging programs. Having graduated from the Full Stack Web Development Coding Bootcamp at Rice University, I developed the skills to use JavaScript, React, SQL, Express, NodeJS
             and other tools to develop responsive, mobile-friendly applications. Through self-study I have learned to utilize complex algorithms and data structures to manipulate data, and Python and Selenium to build sophisticated web scrapers.
         </p>

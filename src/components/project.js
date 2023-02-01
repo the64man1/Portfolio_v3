@@ -7,22 +7,30 @@ import budget from '../assets/images/Budget Tracker.png';
 import employee from '../assets/images/Employee Tracker.png';
 import foodbook from '../assets/images/foodBook.png';
 import algoApp from '../assets/images/Algo App.png';
+import recipeShoppingApp from '../assets/images/RecipeShoppingApp.png';
 
 function Project() {
     const projects = [
-        {
-            name: 'Algo App',
-            description: 'MERN-stack application for interacting with my solutions to algorithm exercises',
-            github: 'https://github.com/the64man1/Algo-App',
-            deployed: 'https://aq-algo-app.herokuapp.com/',
-            image: algoApp
-        },
         {
             name: 'Foodbook',
             description: 'A website to find popular, user-created recipes, and share your own favorite recipes. Created using the MERN stack, along with GraphQL for managing API requests.',
             github: 'https://github.com/the64man1/AQ_Foodbook',
             deployed: 'https://aq-foodbook.herokuapp.com/',
             image: foodbook
+        },
+        {
+            name: 'Recipe/Shopping List App',
+            description: 'Angular app for uploading recipes and making shopping lists',
+            github: 'https://github.com/the64man1/ShoppingListApp',
+            deployed: 'https://aq-recipe-shopping-app.herokuapp.com/',
+            image: recipeShoppingApp
+        },
+        {
+            name: 'Algo App',
+            description: 'MERN-stack application for interacting with my solutions to algorithm exercises',
+            github: 'https://github.com/the64man1/Algo-App',
+            deployed: 'https://aq-algo-app.herokuapp.com/',
+            image: algoApp
         },
         {
             name: 'Galleria',
